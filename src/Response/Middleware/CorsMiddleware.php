@@ -1,4 +1,5 @@
 <?php
+
 	namespace ResponseHTTP\Response\Middleware;
 
 	use Closure;

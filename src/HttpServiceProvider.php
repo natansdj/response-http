@@ -1,10 +1,4 @@
 <?php
-	/**
-	 * Created by PhpStorm.
-	 * User: fabrizio
-	 * Date: 09/11/18
-	 * Time: 13.19
-	 */
 
 	namespace ResponseHTTP;
 

@@ -1,13 +1,13 @@
 {
-    "name": "fabrizio-cafolla/response-http",
+    "name": "natansdj/response-http",
     "description": "Response service for Laravel/Lumen Framework.",
     "keywords": ["framework", "laravel", "lumen", "rest", "http", "response"],
     "license": "MIT",
     "type": "lumen-package",
     "authors": [
         {
-            "name": "Fabrizio Cafolla",
-            "email": "info@fabriziocafolla.com"
+            "name": "Natan Sidjabat",
+            "email": "leavingtrailbehind@gmail.com"
         }
     ],
 
